@@ -12,3 +12,17 @@ C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\DTO_QuanL
 C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\BUS_QuanLi.pdb
 C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\DTO_QuanLi.pdb
 C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.csproj.CopyComplete
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\Gui_QuanLi.exe.config
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\Gui_QuanLi.exe
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\Gui_QuanLi.pdb
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\DTO_QuanLi.dll
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\DTO_QuanLi.pdb
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.csprojAssemblyReference.cache
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.Properties.Resources.resources
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.csproj.GenerateResource.cache
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.csproj.CoreCompileInputs.cache
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.csproj.CopyComplete
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.exe
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.pdb
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\BUS_QuanLi.dll
+E:\Đồ án\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\BUS_QuanLi.pdb
