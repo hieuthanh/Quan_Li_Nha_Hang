@@ -9,6 +9,7 @@ namespace DAL_QuanLi
     public class DBConnect
     {
         protected SqlConnection _conn = new SqlConnection("Data Source=DESKTOP-9E5E5MG;Initial Catalog=QLCH;Integrated Security=True");
-
+        //protected SqlConnection _conn = new SqlConnection("Data Source = COMPUTER; Initial Catalog = QLCH; Integrated Security = True");
+        
     }
 }
