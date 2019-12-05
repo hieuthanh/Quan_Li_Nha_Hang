@@ -1,0 +1,9 @@
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\Gui_QuanLi.exe.config
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\Gui_QuanLi.exe
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\Gui_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.csprojAssemblyReference.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.Properties.Resources.resources
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.csproj.GenerateResource.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.csproj.CoreCompileInputs.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.exe
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.pdb

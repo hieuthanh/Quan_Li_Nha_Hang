@@ -1,0 +1,6 @@
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_NhanVien\bin\Debug\DTO_QL_NhanVien.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_NhanVien\bin\Debug\DTO_QL_NhanVien.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_NhanVien\obj\Debug\DTO_QL_NhanVien.csprojAssemblyReference.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_NhanVien\obj\Debug\DTO_QL_NhanVien.csproj.CoreCompileInputs.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_NhanVien\obj\Debug\DTO_QL_NhanVien.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_NhanVien\obj\Debug\DTO_QL_NhanVien.pdb

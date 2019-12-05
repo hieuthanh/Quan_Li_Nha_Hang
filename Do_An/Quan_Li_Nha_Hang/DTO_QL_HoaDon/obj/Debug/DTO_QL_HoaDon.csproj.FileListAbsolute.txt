@@ -1,0 +1,5 @@
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_HoaDon\bin\Debug\DTO_QL_HoaDon.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_HoaDon\bin\Debug\DTO_QL_HoaDon.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_HoaDon\obj\Debug\DTO_QL_HoaDon.csproj.CoreCompileInputs.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_HoaDon\obj\Debug\DTO_QL_HoaDon.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_HoaDon\obj\Debug\DTO_QL_HoaDon.pdb

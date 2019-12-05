@@ -1,0 +1,5 @@
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QuanLi\obj\Debug\DTO_QuanLi.csproj.CoreCompileInputs.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QuanLi\bin\Debug\DTO_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QuanLi\bin\Debug\DTO_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QuanLi\obj\Debug\DTO_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QuanLi\obj\Debug\DTO_QuanLi.pdb

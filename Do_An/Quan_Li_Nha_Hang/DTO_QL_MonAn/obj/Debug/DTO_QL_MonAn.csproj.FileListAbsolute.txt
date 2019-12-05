@@ -1,0 +1,5 @@
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_MonAn\bin\Debug\DTO_QL_MonAn.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_MonAn\bin\Debug\DTO_QL_MonAn.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_MonAn\obj\Debug\DTO_QL_MonAn.csproj.CoreCompileInputs.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_MonAn\obj\Debug\DTO_QL_MonAn.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DTO_QL_MonAn\obj\Debug\DTO_QL_MonAn.pdb
