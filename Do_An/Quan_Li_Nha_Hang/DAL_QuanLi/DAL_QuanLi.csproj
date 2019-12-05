@@ -41,7 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAL_QuanLi.cs" />
+    <Compile Include="DBConnect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DTO_QuanLi\DTO_QuanLi.csproj">
+      <Project>{4001bfdf-0620-45ad-8a82-82b6aaf1181e}</Project>
+      <Name>DTO_QuanLi</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

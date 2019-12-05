@@ -1,0 +1,11 @@
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\bin\Debug\BUS_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\bin\Debug\BUS_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\bin\Debug\DAL_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\bin\Debug\DTO_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\bin\Debug\DAL_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\bin\Debug\DTO_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\obj\Debug\BUS_QuanLi.csprojAssemblyReference.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\obj\Debug\BUS_QuanLi.csproj.CoreCompileInputs.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\obj\Debug\BUS_QuanLi.csproj.CopyComplete
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\obj\Debug\BUS_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\BUS_QuanLi\obj\Debug\BUS_QuanLi.pdb

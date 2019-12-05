@@ -8,7 +8,6 @@ namespace DTO_QuanLi
 {
     class DTO_CTHD
     {
-        //1234
         private int mahd;
         private int mamon;
         private int solg;
