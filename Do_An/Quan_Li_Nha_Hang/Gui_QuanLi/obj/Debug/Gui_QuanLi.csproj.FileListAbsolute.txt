@@ -7,3 +7,8 @@ C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanL
 C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.csproj.CoreCompileInputs.cache
 C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.exe
 C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\BUS_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\DTO_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\BUS_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\bin\Debug\DTO_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\Gui_QuanLi\obj\Debug\Gui_QuanLi.csproj.CopyComplete

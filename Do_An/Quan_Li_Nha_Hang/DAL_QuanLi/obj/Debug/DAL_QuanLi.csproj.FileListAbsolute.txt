@@ -1,0 +1,9 @@
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DAL_QuanLi\bin\Debug\DAL_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DAL_QuanLi\bin\Debug\DAL_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DAL_QuanLi\obj\Debug\DAL_QuanLi.csprojAssemblyReference.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DAL_QuanLi\obj\Debug\DAL_QuanLi.csproj.CoreCompileInputs.cache
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DAL_QuanLi\obj\Debug\DAL_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DAL_QuanLi\obj\Debug\DAL_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DAL_QuanLi\bin\Debug\DTO_QuanLi.dll
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DAL_QuanLi\bin\Debug\DTO_QuanLi.pdb
+C:\GITHUB\Quan_Li_Nha_Hang\Do_An\Quan_Li_Nha_Hang\DAL_QuanLi\obj\Debug\DAL_QuanLi.csproj.CopyComplete

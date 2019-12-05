@@ -80,5 +80,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS_QuanLi\BUS_QuanLi.csproj">
+      <Project>{a0ba0311-06a7-4cfd-b056-adf71dcfbd7f}</Project>
+      <Name>BUS_QuanLi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_QuanLi\DTO_QuanLi.csproj">
+      <Project>{4001bfdf-0620-45ad-8a82-82b6aaf1181e}</Project>
+      <Name>DTO_QuanLi</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

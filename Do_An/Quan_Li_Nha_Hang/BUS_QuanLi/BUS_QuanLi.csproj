@@ -44,5 +44,15 @@
     <Compile Include="BUS_QuanLi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL_QuanLi\DAL_QuanLi.csproj">
+      <Project>{aa3cd7e9-6b6e-433d-b652-53c597ea625f}</Project>
+      <Name>DAL_QuanLi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_QuanLi\DTO_QuanLi.csproj">
+      <Project>{4001bfdf-0620-45ad-8a82-82b6aaf1181e}</Project>
+      <Name>DTO_QuanLi</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
