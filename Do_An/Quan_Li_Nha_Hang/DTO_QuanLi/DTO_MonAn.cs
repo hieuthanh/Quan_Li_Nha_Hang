@@ -8,6 +8,7 @@ namespace DTO_QuanLi
 {
     class DTO_MonAn
     {
+        //1357
         private int mamon;
         private string tenmon;
         private float gia;
